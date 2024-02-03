@@ -1,0 +1,7 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.6",
+        "ext-pdo": "*",
+        "intervention/image": "^2.7"
+    }
+}
