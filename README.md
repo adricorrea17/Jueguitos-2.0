@@ -1,7 +1,7 @@
 ## Jueguitos
 ## Descripcion de Jueguitos
 
-Es un proyecto hecho con php y MySQL el cual incluyeÑ
+Es un proyecto hecho con php y MySQL el cual incluye:
 - Listado de productos
 - Compra de juegos
 - Login y registro de usuarios
